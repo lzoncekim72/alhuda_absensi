@@ -1,0 +1,1 @@
+<?php $msg='Kartu tidak valid. Apakah Anda ingin mendaftarkan siswa?'; echo substr($msg, 0, 16); ?>
